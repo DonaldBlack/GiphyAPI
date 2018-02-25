@@ -1,0 +1,45 @@
+body{
+	background: url('../images/calm.jpeg');
+	background-size: 100%;
+    background-repeat: no-repeat;
+    color: royalblue;
+}
+* {
+	box-sizing: border-box;
+}
+img { 
+    height: 150px;
+    width: 150px;
+}
+.btn {
+    margin: 3px;
+    background-color: rgb(87, 25, 112);
+    border-color: #fff;
+    color: red;
+}
+.gifDiv{
+    float: left;
+    margin: 3px;
+}
+.container {
+	background-color: inherit;
+	opacity: 1.0;
+	padding: 20px;
+}
+.jumbotron {
+    background-color: inherit;
+    margin-left:42%;
+
+}
+
+#copyright{
+	font-size: 14px;
+}
+
+.top-container{
+	background: white;
+	width: 580px;
+    height: 85px;
+    margin-left: 420px;
+    color: black;
+}
